@@ -21,6 +21,14 @@ The following **required** functionality is completed:
 
 ![Video Walkthrough of IOS101 - Prework Application](https://www.loom.com/embed/5676dcd0c17f4a9e9e6eb29c208778d4?sid=4175117f-ec17-470a-968d-15bbb5fe6808)
 
+<div>
+    <a href="https://www.loom.com/share/5676dcd0c17f4a9e9e6eb29c208778d4">
+    </a>
+    <a href="https://www.loom.com/share/5676dcd0c17f4a9e9e6eb29c208778d4">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/5676dcd0c17f4a9e9e6eb29c208778d4-with-play.gif">
+    </a>
+  </div>
+
 ## App Brainstorming (Step 4)
 
 ### Favorite applications
