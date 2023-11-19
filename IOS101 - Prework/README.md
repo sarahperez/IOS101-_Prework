@@ -19,7 +19,7 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-<div style="position: relative; padding-bottom: 64.94708994708994%; height: 0;"><iframe src="https://www.loom.com/embed/5676dcd0c17f4a9e9e6eb29c208778d4?sid=4175117f-ec17-470a-968d-15bbb5fe6808" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+[![Video Walkthrough]]({https://www.loom.com/embed/5676dcd0c17f4a9e9e6eb29c208778d4?sid=4175117f-ec17-470a-968d-15bbb5fe6808} "Video Walkthrough of IOS101 - Prework Application")
 
 ## App Brainstorming (Step 4)
 
@@ -36,7 +36,7 @@ The following **required** functionality is completed:
 
 ### An app I would like to build
 
-I want to 
+I want to build an imporoved version of Mint aimed towards college students. I use Mint, however, I often find that a lot of the functions are not within my needs and thus, clutter the app for me. I would change the aethetics of the application to appeal to younger adults encouraging them to be financially concious and smart. Additionally, I would add features that would help a college student pay for college expenses such as tuition. 
 
 ## Notes
 
