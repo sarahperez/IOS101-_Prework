@@ -24,6 +24,7 @@
 		966198E22B09A41A0061044A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		966198E52B09A41A0061044A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		966198E72B09A41A0061044A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		966198ED2B09D9C70061044A /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +64,7 @@
 				966198E22B09A41A0061044A /* Assets.xcassets */,
 				966198E42B09A41A0061044A /* LaunchScreen.storyboard */,
 				966198E72B09A41A0061044A /* Info.plist */,
+				966198ED2B09D9C70061044A /* README.md */,
 			);
 			path = "IOS101 - Prework";
 			sourceTree = "<group>";
