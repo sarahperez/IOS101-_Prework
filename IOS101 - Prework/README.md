@@ -8,7 +8,7 @@ Presents static information about me such as my name, school, and current job.
 
 The app also has a button that changes the background of the screen when pressed. 
 
-Time spent: **1.5** hours spent in total
+Time spent: **2** hours spent in total
 
 ## Required Features
 
@@ -19,17 +19,20 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+<div style="position: relative; padding-bottom: 64.94708994708994%; height: 0;"><iframe src="https://www.loom.com/embed/5676dcd0c17f4a9e9e6eb29c208778d4?sid=4175117f-ec17-470a-968d-15bbb5fe6808" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ## App Brainstorming (Step 4)
 
 ### Favorite applications
 - 1: Spotify
-    - 
+    - Personalized suggestions
+    - Playlist organization
 - 2: BeReal
+    - Saves history of old BeReals
+    - Takes pictures with both front and backfacing cameras
 - 3: Mint
+    - Tracks all spending and categorizes transactions
+    - Tracks all accounts and provides weekly summaries
 
 ### An app I would like to build
 
@@ -37,11 +40,11 @@ I want to
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I did not encounter many issues however, the ones that I did encounter were due to my unfamiliarity with macOS as I am a new macOS user who has recently switched from using WindowsOS for many years.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [Sarah Perez]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
